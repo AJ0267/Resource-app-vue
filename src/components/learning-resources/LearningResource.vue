@@ -9,7 +9,7 @@
       </header>
       <P>{{ description }}</P>
       <nav>
-        <a :href="link">View Resouce</a>
+        <a :href="link">View Resource</a>
       </nav>
     </base-card>
   </li>
